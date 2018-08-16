@@ -1,0 +1,2 @@
+# words
+basic vocabulary technique 
